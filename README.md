@@ -15,10 +15,9 @@ Pasos para instalar:
 3. Ejecutar el proyecto
 
 ### Requisitos previos
--Python 3.13.3
+- Python 3.13.3
 - Visual Studio Code
-
-  ##  Naming de ramas
+##  Naming de ramas
 Se utiliza la convención de **GitFlow**, con los siguientes tipos de ramas:
 
 - **main** → Contiene siempre la versión estable y lista para producción.
