@@ -4,7 +4,7 @@
 Este es el repositorio de mi proyecto.
 
 ## Descripción
-Aquí va una explicación breve de qué trata.
+Aquí va una explicación breve de qué trata.(Usaremos GitFlow porque permite organizar desarrollos de nuevas features y correcciones de bugs en ramas separadas, manteniendo la rama main siempre estable para despliegue.)
 
 ## Instalación
 Pasos para instalar:
