@@ -49,4 +49,4 @@ El flujo de integración sigue este orden:
 - Los merges se realizan preferentemente desde GitHub para mantener la trazabilidad.  
 
 ## Prueba CI
-   Esta es una prueba de que funciona github actions
+   Esta es una prueba
