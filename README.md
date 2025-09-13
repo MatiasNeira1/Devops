@@ -48,3 +48,4 @@ El flujo de integración sigue este orden:
 - Cada PR debe ser revisado y aprobado por **Los 2 integrantes del equipo** antes del merge.  
 - Los merges se realizan preferentemente desde GitHub para mantener la trazabilidad.  
 
+## Prueba CI
